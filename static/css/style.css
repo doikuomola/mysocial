@@ -1,0 +1,8 @@
+/* li.nav-item.active { */
+/* background-color: red; */
+/* } */
+
+button.close {
+    position: absolute;
+    right: 10px;
+}
